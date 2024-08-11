@@ -1,0 +1,15 @@
+name: sudoku_game
+description: A Sudoku game built with Flutter
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.5.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_secure_storage: ^5.0.2
+
+flutter:
+  uses-material-design: true
